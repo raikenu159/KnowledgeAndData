@@ -6,4 +6,4 @@ Dit doe je met de volgende stappen:
 2. Klik op 'Download' aan de rechterkant. Dit opent een venster waar je niet veel mee kunt.
 3. Druk op je rechtermuisknop en klik iets als 'Save page as' (of dergelijke vertaling) en sla het bestand op als .ipynb bestand. Kies nadrukkelijk bij 'Save as type' 'All Files'.
 
-Dit geldt voor Windows gebruikers, zoek het maar uit als je Mac-OS gebruikt.
+Dit geldt voor Windows gebruikers. We gaan ervan uit dat het niet heel anders gaat op Mac-OS.
