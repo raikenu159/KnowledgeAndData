@@ -3,7 +3,7 @@ Om onze notebook goed te kunnen beoordelen, vragen we je om de notebook ook echt
 Anders zijn de interactieve elementen niet aanwezig.
 Dit doe je met de volgende stappen:
 1. Klik hierboven op het bestand 'AssignmentWeek7_22.ipynb'.
-2. Klik op 'Download' aan de rechterkant. Dit kan ook als het nog aan het laden is. Dit opent een venster waar je niet veel mee kunt.
+2. Klik op 'Download' aan de rechterkant. Dit kan ook als het nog aan het laden is, of zelfs als er 'Sorry, something went wrong' komt te staan. Dit opent een venster waar je niet veel mee kunt.
 3. Druk op je rechtermuisknop en klik iets als 'Save page as' (of dergelijke vertaling) en sla het bestand op als .ipynb bestand. Kies nadrukkelijk bij 'Save as type' 'All Files' en haal eventueel de '.txt' aan het eind van het bestand weg.
 
 Dit geldt voor Windows gebruikers. We gaan ervan uit dat het niet heel anders gaat op Mac-OS.
